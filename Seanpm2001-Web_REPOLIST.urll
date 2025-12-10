@@ -2,9 +2,9 @@
 //// Seanpm2001-Web_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Website repositories by @seanpm2001
-//// As of 2025, Friday, December 5th
+//// As of 2025, Tuesday, December 9th
 
-//// Websites (147)
+//// Websites (153)
 https://github.com/seanpm2001/Booty_Website
 https://github.com/seanpm2001/Kotlint_Website
 https://github.com/seanpm2001/WichCraft_Website
@@ -29,7 +29,7 @@ https://github.com/seanpm2001/Portable-Progress-Bar_Website
 https://github.com/seanpm2001/OpenAd-Specification_Website
 https://github.com/seanpm2001/SimZonns_Website
 https://github.com/seanpm2001/Code-distancing_Website
-https://github.com/seanpm2001/Doorcrete_Website
+https://github./com/seanpm2001/Doorcrete_Website
 https://github.com/seanpm2001/Underune_Maker_Website
 https://github.com/seanpm2001/StartFsck_Website
 https://github.com/seanpm2001/Nost_Gia_OS_Website
@@ -158,10 +158,16 @@ https://github.com/seanpm2001/NetM_Website
 https://github.com/seanpm2001/MarkDownDownDown_Website
 https://github.com/seanpm2001/KeyStroke_Website
 https://github.com/seanpm2001/Perl_Harbor_Website
+https://github.com/seanpm2001/VOI-Manor_Website
+https://github.com/seanpm2001/Stock-Elevator-LIBrary_Website
+https://github.com/seanpm2001/ChargeFX_Website
+https://github.com/seanpm2001/Virtual-VHS_Website
+https://github.com/seanpm2001/Rick_Website
+https://github.com/seanpm2001/CottonTree-LIBrary_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001-Web): 147
-//// 147+0=147
+//// Repo count (Seanpm2001-Web): 153
+//// 153+0=153
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -175,15 +181,15 @@ https://github.com/seanpm2001/SeanWallaWalla-Web
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 148
-//// 147+1=148
+//// Total repo count: 154
+//// 153+1=154
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 14 (2025, Friday, December 5th at 10:42 pm PST)
-//// Line count (including blank lines and compiler line): 190
+//// File version: 15 (2025, Tuesday, December 9th at 11:29 pm PST)
+//// Line count (including blank lines and compiler line): 196
 //// ----------------------------------------------------- \\\\
 
 //// End of file
