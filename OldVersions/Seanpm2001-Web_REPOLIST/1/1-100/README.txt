@@ -2,9 +2,9 @@
 //// Seanpm2001-Web_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Website repositories by @seanpm2001
-//// As of 2025, Saturday, December 13th
+//// As of 2025, Wednesday, December 17th
 
-//// Websites (162)
+//// Websites (171)
 https://github.com/seanpm2001/Booty_Website
 https://github.com/seanpm2001/Kotlint_Website
 https://github.com/seanpm2001/WichCraft_Website
@@ -173,9 +173,18 @@ https://github.com/seanpm2001/TrueCalm_Website
 https://github.com/seanpm2001/Team8_Collection_Website
 https://github.com/seanpm2001/CrossCompatXU_Website
 https://github.com/seanpm2001/CH3-c-K_Website
+https://github.com/seanpm2001/ScreenTeX_Website
+https://github.com/seanpm2001/LinkLax_Website
+https://github.com/seanpm2001/3DE_Website
+https://github.com/seanpm2001/V7Tags_Website
+https://github.com/seanpm2001/SourceBase_Website
+https://github.com/seanpm2001/Browsniffica_Website
+https://github.com/seanpm2001/Talla-Browser_Website
+https://github.com/seanpm2001/GitHubby_Website
+https://github.com/seanpm2001/NimbleBook_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001-Web): 162
+//// Repo count (Seanpm2001-Web): 171
 //// 162+0=162
 //// ----------------------------------------------------- \\\\
 
@@ -190,15 +199,15 @@ https://github.com/seanpm2001/SeanWallaWalla-Web
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 163
-//// 162+1=163
+//// Total repo count: 172
+//// 171+1=172
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 17 (2025, Saturday, December 13th at 11:11 pm PST)
-//// Line count (including blank lines and compiler line): 205
+//// File version: 18 (2025, Wednesday, December 17th at 07:42 pm PST)
+//// Line count (including blank lines and compiler line): 214
 //// ----------------------------------------------------- \\\\
 
 //// End of file
