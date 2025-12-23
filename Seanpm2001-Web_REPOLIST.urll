@@ -2,9 +2,9 @@
 //// Seanpm2001-Web_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Website repositories by @seanpm2001
-//// As of 2025, Wednesday, December 17th
+//// As of 2025, Friday, December 19th
 
-//// Websites (171)
+//// Websites (177)
 https://github.com/seanpm2001/Booty_Website
 https://github.com/seanpm2001/Kotlint_Website
 https://github.com/seanpm2001/WichCraft_Website
@@ -182,10 +182,16 @@ https://github.com/seanpm2001/Browsniffica_Website
 https://github.com/seanpm2001/Talla-Browser_Website
 https://github.com/seanpm2001/GitHubby_Website
 https://github.com/seanpm2001/NimbleBook_Website
+https://github.com/seanpm2001/Ultra-Image-Studio_Website
+https://github.com/seanpm2001/OuterVM_Website
+https://github.com/seanpm2001/V-ReShot_Website
+https://github.com/seanpm2001/NimbleByte_Website
+https://github.com/seanpm2001/TrueEEG_Website
+https://github.com/seanpm2001/UShortcut_Pro_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001-Web): 171
-//// 162+0=162
+//// Repo count (Seanpm2001-Web): 177
+//// 177+0=177
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -199,15 +205,15 @@ https://github.com/seanpm2001/SeanWallaWalla-Web
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 172
-//// 171+1=172
+//// Total repo count: 178
+//// 177+1=178
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 18 (2025, Wednesday, December 17th at 07:42 pm PST)
-//// Line count (including blank lines and compiler line): 214
+//// File version: 19 (2025, Monday, December 22nd at 07:48 pm PST)
+//// Line count (including blank lines and compiler line): 220
 //// ----------------------------------------------------- \\\\
 
 //// End of file
